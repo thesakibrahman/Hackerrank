@@ -1,4 +1,4 @@
- Objective
+/** Objective
 
 This challenge will help you to learn how to take a character, a string and a sentence as input in C.
 
@@ -44,7 +44,7 @@ Sample Output 0
 
 C
 Language
-Welcome To C!!
+Welcome To C!! **/
   
   
 #include <stdio.h>
